@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: eee0ed01ecfbb49b3a267814ce394041
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Dungeon Quests
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 909f02e516ba7427686162f73c18d5c6, type: 3}
+  - {fileID: 12800000, guid: 5269b7b543c064d119bc9842a7a53b7e, type: 3}
+  - {fileID: 12800000, guid: 5ebc39bf9f2af4aeab83468f34ee621a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
